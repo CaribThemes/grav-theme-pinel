@@ -1,0 +1,13 @@
+name: Pinel
+version: 1.0.0
+description: "A FREE responsive Landing Page based on Landy & ported for Grav by CaribThemes."
+icon: empire
+author:
+  name: MATsxm for CaribThemes
+  email: mat@idimweb.com
+  url: http://caribthemes.io
+homepage: https://github.com/CaribThemes/grav-theme-pinel
+demo: http://caribthemes.io/demo/pinel
+keywords: theme, responsive, html5, css3, design, onepage
+bugs: https://github.com/CaribThemes/grav-theme-pinel/issues
+license: MIT
