@@ -6,17 +6,17 @@ en:
     MENU_ERROR: Error Page
     MENU_CONTACT: Get in touch
 # Footer
-    FOOTER_COPYRIGHT: Pinel is inspired by <a href="https://github.com/paolotripodi/Landy-v1.0" target="_blank" title="Landry">Landry</a> and ported for <a href="http://getgrav.org" target="_blank" title="GetGrav">Grav</a> by <a href="http://caribthemes.io" target="_blank" title="Themes for Grav CMS">Carib Themes</a>.
+    FOOTER_COPYRIGHT: Pinel is inspired by <a href="https://github.com/paolotripodi/Landy-v1.0" target="_blank" title="Landry">Landry</a> and <i class="fa fa-code"></i> for <a href="http://getgrav.org" target="_blank" title="GetGrav">Grav</a> by <a href="http://caribthemes.io" target="_blank" title="Themes for Grav CMS">Carib Themes</a>.
 # Error
     ERROR_TYPE: Error
     ERROR_DESC: Oops! - It seems you are lost.<br/>It's time to take of your shoes and going back to the beach...
     ERROR_BTN: Back to the beach!
 # Contact form
-    CONTACT_SUB_TITLE: Have a question about this template, or want to suggest a new feature,
-    CONTACT_TAGLINE: Feel free to email us or share with us!
+    CONTACT_TITLE: Get in touch with us!
+    CONTACT_TAGLINE: Have a question about this template?<br> Feel free to <i class="fa fa-envelope"></i> us or share with us!
     CONTACT_FORM_NAME: Name
     CONTACT_FORM_EMAIL: name@example.com
-    CONTACT_FORM_MESSAGE: Your message
+    CONTACT_FORM_MESSAGE: Your message **THIS FORM IS ONLY FOR DEMO PURPOSE**
     CONTACT_FORM_BTN_SUBMIT: Submit
 
 fr:
@@ -27,7 +27,7 @@ fr:
     MENU_ERROR: Page d'erreur
     MENU_CONTACT: Restons en contact
 # Footer
-    FOOTER_COPYRIGHT: Pinel est inspiré par <a href="https://github.com/paolotripodi/Landy-v1.0" target="_blank" title="Landry">Landry</a> et adapté pour <a href="http://getgrav.org" target="_blank" title="GetGrav">Grav</a> par <a href="http://caribthemes.io" target="_blank" title="Themes pourle CMS Grav">Carib Themes</a>.
+    FOOTER_COPYRIGHT: Pinel est inspiré par <a href="https://github.com/paolotripodi/Landy-v1.0" target="_blank" title="Landry">Landry</a> et <i class="fa fa-code"></i> pour <a href="http://getgrav.org" target="_blank" title="GetGrav">Grav</a> par <a href="http://caribthemes.io" target="_blank" title="Themes pourle CMS Grav">Carib Themes</a>.
 # Error
     ERROR_TYPE: Erreur
     ERROR_DESC: Oups ! - Il semble que vous vous soyez égaré.<br/>Il est temps de quitter vos chaussures et de retourner à la plage...
@@ -37,5 +37,5 @@ fr:
     CONTACT_TAGLINE: N'hésitez pas à nous contacter ou à nous suivre !
     CONTACT_FORM_NAME: Nom
     CONTACT_FORM_EMAIL: nom@exemple.com
-    CONTACT_FORM_MESSAGE: Votre message
+    CONTACT_FORM_MESSAGE: Votre message **FORMULAIRE UNIQUEMENT DESTINE A LA DEMO**
     CONTACT_FORM_BTN_SUBMIT: Envoyer
