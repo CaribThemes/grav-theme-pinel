@@ -9,7 +9,7 @@ en:
     FOOTER_COPYRIGHT: Pinel is inspired by <a href="https://github.com/paolotripodi/Landy-v1.0" target="_blank" title="Landry">Landry</a> and <i class="fa fa-code"></i> for <a href="http://getgrav.org" target="_blank" title="GetGrav">Grav</a> by <a href="http://caribthemes.io" target="_blank" title="Themes for Grav CMS">Carib Themes</a>.
 # Error
     ERROR_TYPE: Error
-    ERROR_DESC: Oops! - It seems you are lost.<br/>It's time to take of your shoes and going back to the beach...
+    ERROR_DESC: Oops! - It seems you are lost.<br/>It's time to take off your shoes and go back to the beach...
     ERROR_BTN: Back to the beach!
 # Contact form
     CONTACT_TITLE: Get in touch with us!
